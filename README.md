@@ -12,5 +12,5 @@
   
 简介 | 时间 | 内容简介
 :------------- | :------------- | :-------------
-[爱折腾的一年](../master/2015/zhangdan.md) | [2015]() | 小喜小悲，技术没有沉淀下来
+[爱折腾的一年](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2015/zhangdan.md) | [2015]() | 小喜小悲，技术没有沉淀下来
 
