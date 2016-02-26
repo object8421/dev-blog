@@ -10,7 +10,7 @@
 简介 | 时间 | 内容简介php
 :------------- | :------------- | :-------------
 [UITableView问题总结点](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page1.md) | [2016-2-25]() | 曾近踩过的坑
-[UITableView问题总结点](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page1.md) | [2016-2-25]() | 曾近踩过的坑
+[ios面试题](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page2.md) | [2016-2-25]() | 曾近踩过的坑
 
 
 
