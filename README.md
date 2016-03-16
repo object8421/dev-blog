@@ -9,17 +9,19 @@
   
 简介 | 时间 | 内容简介
 :------------- | :------------- | :-------------
-[Core Text 入门](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page3.md) | [2016-3-4]() | 曾近踩过的坑
-[UITableView问题总结点](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page1.md) | [2016-2-25]() | 曾近踩过的坑
-[ios面试题](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page2.md) | [2016-2-26]() | 自己刷题的意思，只是加深对问题的理解罢了，点到即可。
+[iOS 事件处理机制](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page5.md) | [2016-3-4] | 入门
+[Core Text 入门](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page3.md) | [2016-3-4] | 入门
+[UITableView问题总结点](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page1.md) | [2016-2-25] | 曾近踩过的坑
+[ios面试题](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page2.md) | [2016-2-26] | 自己刷题的意思，只是加深对问题的理解罢了，点到即可。
 
 
 
 
 
-<!-- ### 年终总结  
+### 留在指尖的文字  
   
 简介 | 时间 | 内容简介
 :------------- | :------------- | :-------------
-[爱折腾的一年](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2015/zhangdan.md) | [2015-12-31]() | 小喜小悲，技术没有沉淀下来
- -->
+[挥霍而过的岁月](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page4.md) | [2016-3-10] | 忙的压不过气的时候，再回头梳理一下今年要完成的事。
+
+
