@@ -9,18 +9,17 @@
 
 简介 | 时间 | 内容简介
 :------------- | :------------- | :-------------
-[iOS 圆角卡顿剖析](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page6.md) | [2016-3-24] | Runloop事件处理机制
+[不要写死！天猫App的动态化配置中心实践 ](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=402842876&idx=1&sn=e15d596c95bf7d1ed579cfd7e410696a&scene=2&srcid=0315cLs789Ej7XkMleLpkxHE#wechat_redirect) | [2016-3-26] | 天猫App的动态化配置中心实践
 [iOS 事件处理机制](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page5.md) | [2016-3-4] | Runloop事件处理机制
 [Core Text 入门](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page3.md) | [2016-3-4] | 入门
 [UITableView问题总结点](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page1.md) | [2016-2-25] | 曾近踩过的坑
 [ios面试题](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page2.md) | [2016-2-26] | 自己刷题的意思，只是加深对问题的理解罢了，点到即可
 
-
 ### 留在指尖的文字  
 
 简介 | 时间 | 内容简介
 :------------- | :------------- | :-------------
-[磕磕绊绊的三月](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page7.md) | [2016-3-26] | 忙的压不过气的时候，再回头梳理一下今年要完成的事
+[磕磕绊绊的三月](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page7.md) | [2016-3-26] | 越打击，越强大，
 [挥霍而过的岁月](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page4.md) | [2016-3-10] | 忙的压不过气的时候，再回头梳理一下今年要完成的事
 
 
