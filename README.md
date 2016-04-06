@@ -21,6 +21,7 @@
 
 简介 | 时间 | 内容简介
 :------------- | :------------- | :-------------
+[JSPatch作者](http://blog.cnbang.net/) | 2016-4-7 | 开源力量
 [唐巧的技术博客](http://blog.devtang.com/) | 2016-3-26 | 需要好好研读一番
 [OneV’s Den 王巍](http://onevcat.com/#blog/) | 2016-3-26 | 不解释了
 [objc中国](http://objccn.io/) | 2016-3-26 | objc中国
