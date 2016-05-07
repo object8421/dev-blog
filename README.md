@@ -1,4 +1,4 @@
-# fuck-yesterday-flirt-tomorrow
+# 优秀的工程师是怎么炼成的
 **自己学习过程当中，所有的日志都放在这了，将未来的工作重点放在git上**  
 
 **未来几年自己研究的方向，掌握的技术都会在这列一个清单**  
@@ -12,8 +12,20 @@
 
 简介 | 时间 | 内容简介
 :------------- | :------------- | :-------------
-[iOS之XMMP开发](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page12.md) | 2016-5-7 | SDK开发
-[iOS之3D Touch开发](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page11.md) | 2016-5-6 | SDK开发
+[iOS之自身修养篇](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page24.md) | 2016-5-7 | 程序员的自我修养，更新ing
+[iOS之iphone watch开发](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page23.md) | 2016-5-7 | iphone watch开发，更新ing
+[iOS之支付开发](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page22.md) | 2016-5-7 | 包括Apple pay，微信pay，支付宝pay，更新ing
+[iOS之虚拟现实开发](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page21.md) | 2016-5-7 | 相关的开发资料太少，留个坑，整理中，更新ing
+[iOS之蓝牙开发](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page20.md) | 2016-5-7 | 可能应用，比如通过蓝牙获取通知栏信息，实际应用智能手环，更新ing
+[iOS之Socket开发](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page19.md) | 2016-5-7 | 更新ing
+[iOS之App Preview视频制作](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page18.md) | 2016-5-7 | 更新ing
+[iOS之知名APP评析](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page17.md) | 2016-5-7 | 他山之石可以攻玉，最为优秀的同行，我向他们致敬，更新ing
+[iOS之APP第三方库综合测评](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page16.md) | 2016-5-7 | 对于知名控件的评析，框架设计的可以借鉴之处，更新ing
+[iOS之Runtime的黑魔法](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page15.md) | 2016-5-7 | 进一步探究iOS关于Runtime的黑魔法，更新ing
+[iOS之APP与服务器通讯加密论](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page14.md) | 2016-5-7 | 对于一知半解的通信加密所有解决方案，更新ing
+[iOS之音视频开发](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page13.md) | 2016-5-7 | 音视频所有开发资料，包括直播类，播放器类，音乐类APP相关开发教程
+[iOS之XMMP开发](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page12.md) | 2016-5-7 | 即时通讯所有教程不仅仅是XMPP
+[iOS之3D Touch开发](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page11.md) | 2016-5-6 | 3D Touch 初探
 [iOS之SDK开发](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page10.md) | 2016-5-6 | SDK开发
 [iOS进阶之路](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page9.md) | 2016-5-6 | low比的进阶之路
 [React-Native-All](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page8.md) | 2016-5-5 | React-Native所有学习资料
@@ -42,6 +54,8 @@
 :------------- | :------------- | :-------------
 [磕磕绊绊的三月](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page7.md) | 2016-3-26 | 总会赢的，迟早我也会赢
 [挥霍而过的岁月](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page4.md) | 2016-3-10 | 忙的压不过气的时候，再回头梳理一下今年要完成的事
+
+华丽分割线-------------------------------------------------------------------
 
 [我的作品](https://itunes.apple.com/us/developer/yuan-zhao/id1061866838)
 
