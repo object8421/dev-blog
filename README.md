@@ -12,6 +12,8 @@
 
 简介 | 时间 | 内容简介
 :------------- | :------------- | :-------------
+[iOS之XMMP开发](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page12.md) | 2016-5-7 | SDK开发
+[iOS之3D Touch开发](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page11.md) | 2016-5-6 | SDK开发
 [iOS之SDK开发](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page10.md) | 2016-5-6 | SDK开发
 [iOS进阶之路](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page9.md) | 2016-5-6 | low比的进阶之路
 [React-Native-All](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page8.md) | 2016-5-5 | React-Native所有学习资料
@@ -41,6 +43,6 @@
 [磕磕绊绊的三月](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page7.md) | 2016-3-26 | 总会赢的，迟早我也会赢
 [挥霍而过的岁月](https://github.com/zhaoxiaobao/fuck-yesterday-flirt-tomorrow/blob/master/2016/page4.md) | 2016-3-10 | 忙的压不过气的时候，再回头梳理一下今年要完成的事
 
-### [我的作品](https://itunes.apple.com/us/developer/yuan-zhao/id1061866838)
+[我的作品](https://itunes.apple.com/us/developer/yuan-zhao/id1061866838)
 
 
